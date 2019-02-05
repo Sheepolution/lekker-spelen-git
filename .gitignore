@@ -1,0 +1,5 @@
+docs
+*.sublime-project
+*.sublime-workspace
+*.love
+TODO
